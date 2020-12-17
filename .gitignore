@@ -1,3 +1,4 @@
+.DS_Store
 MobileNet-SSD/build
 YOLOv4/build
 YOLOv4/yolov4.weights
